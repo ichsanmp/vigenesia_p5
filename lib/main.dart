@@ -12,7 +12,7 @@
 // Kampus  : BSI Cut Mutiah
 
 import 'package:flutter/material.dart';
-import 'Screen/login.dart';
+import '/../Screen/login.dart';
 
 void main() => runApp(MaterialApp(
   debugShowCheckedModeBanner: false,
