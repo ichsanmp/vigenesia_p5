@@ -6,6 +6,8 @@
 //Kampus : UBSI Cengkareng
 //Page: Program utama (login.dart)
 
+// ignore_for_file: unused_import
+
 //import '/../Constant/const.dart';
 import 'package:another_flushbar/flushbar.dart';
 import 'package:flutter/material.dart';
